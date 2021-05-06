@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">utspt_0706011910004</string>
+    <string name="adduser">Add User</string>
+    <string name="addname">Name</string>
+    <string name="addage">Age</string>
+    <string name="listuser">List of Users</string>
+    <string name="ButtonAddUser">ADD NEW USER</string>
+    <string name="addaddress">Address</string>
+    <string name="lbl_no_data">No Data!</string>
+</resources>
